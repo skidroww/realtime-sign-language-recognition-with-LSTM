@@ -2,7 +2,7 @@
 이 프로젝트는 영상 스트림에서 사용자의 동작을 실시간으로 분석하여 수어를 텍스트로 번역하는 딥러닝 기반 파이프라인입니다. 연속적인 시계열 데이터 처리에 강점이 있는 LSTM(Long Short-Term Memory) 아키텍처를 핵심으로 하며, 실시간 환경(CPU 등)에서도 끊김 없이 동작하도록 최적화되었습니다.
 
 # 기능 및 특징 (Key Features)
-1. 고도화된 모델 아키텍처 (Advanced Model Architecture)
+1. 모델 아키텍처 (Advanced Model Architecture)
 BiLSTM + Attention Mechanism: 기본 LSTM 모델에 양방향(Bidirectional) 처리와 어텐션 메커니즘을 추가로 적용하여, 문맥의 흐름을 더 정확히 파악하고 수어 인식 성능을 대폭 향상시켰습니다.
 
 2. 정교한 피처 엔지니어링 (Feature Engineering)
@@ -20,3 +20,11 @@ BiLSTM + Attention Mechanism: 기본 LSTM 모델에 양방향(Bidirectional) 처
 
 지문자 인식 (Fingerspelling): 등록된 수어 단어 외에 고유명사 등을 표현할 때 사용하는 지문자(알파벳/자음·모음) 인식 로직이 함께 통합되어 있습니다.
 
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/3c6d0833-48b2-40d2-b57c-cac3f6d8d7a5" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/2222a8fa-7608-46fb-901f-493171da4bdc" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/35a9cccb-4e10-45fb-9d79-4bfd502725b2" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/1d6d1549-0c2c-4319-9163-5706812cb3b3" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/ec808253-5f23-4487-acbe-cf35f25396cd" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/4c6f1097-df10-4259-a1dd-8b27ef46b1fd" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/15f597f4-1fbe-4e34-83d9-35d8a69f69ef" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/401961aa-4bef-41d5-a206-4b7a47fe63d1" />
