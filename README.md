@@ -2,6 +2,7 @@
 이 프로젝트는 영상 스트림에서 사용자의 동작을 실시간으로 분석하여 수어를 텍스트로 번역하는 딥러닝 기반 파이프라인입니다. 연속적인 시계열 데이터 처리에 강점이 있는 LSTM(Long Short-Term Memory) 아키텍처를 핵심으로 하며, 실시간 환경(CPU 등)에서도 끊김 없이 동작하도록 최적화되었습니다.
 
 <img width="854" height="480" alt="Sentence Recognition 2025-07-16 19-21-25 (online-video-cutter com)" src="https://github.com/user-attachments/assets/15e0c6de-4663-453b-aed7-ec4e4dd5bf2a" />
+
 ※2배속한 영상입니다
 (나, 당신, 만나다, 감사의 수어단어를 동작한 영상입니다)
 
